@@ -1,6 +1,6 @@
 {
   "name": "@apollon/iobroker-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Some tooling functions for iobroker adapter development",
   "author": "Ingo Fischer <iobroker@fischer-ka.de>",
   "contributors": [],
